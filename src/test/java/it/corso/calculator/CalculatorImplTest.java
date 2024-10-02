@@ -45,7 +45,7 @@ public class CalculatorImplTest {
 		});
 		
 	}
-	
+
 	@Before
 	public void setUp() throws Exception {
 	}
